@@ -1,0 +1,22 @@
+{
+  "ARN": {"city": "Stockholm", "country": "Sweden"},
+  "GOT": {"city": "Gothenburg", "country": "Sweden"},
+  "BMA": {"city": "Stockholm", "country": "Sweden"},
+  "MMX": {"city": "Malmö", "country": "Sweden"},
+  "LLA": {"city": "Luleå", "country": "Sweden"},
+  "UME": {"city": "Umeå", "country": "Sweden"},
+  "OSD": {"city": "Åre/Östersund", "country": "Sweden"},
+  "VBY": {"city": "Visby", "country": "Sweden"},
+  "RNB": {"city": "Ronneby", "country": "Sweden"},
+  "KRN": {"city": "Kiruna", "country": "Sweden"},
+  "LHR": {"city": "London", "country": "United Kingdom"},
+  "CDG": {"city": "Paris", "country": "France"},
+  "FRA": {"city": "Frankfurt", "country": "Germany"},
+  "AMS": {"city": "Amsterdam", "country": "Netherlands"},
+  "CPH": {"city": "Copenhagen", "country": "Denmark"},
+  "OSL": {"city": "Oslo", "country": "Norway"},
+  "HEL": {"city": "Helsinki", "country": "Finland"},
+  "IST": {"city": "Istanbul", "country": "Turkey"},
+  "ALC": {"city": "Alicante", "country": "Spain"},
+  "PMI": {"city": "Palma de Mallorca", "country": "Spain"}
+}
